@@ -1,19 +1,17 @@
 # IBM AI Engineering Certification
 
-This repository contains Jupyter Notebooks developed during the IBM AI Engineering Certification program. It covers foundational and advanced topics in artificial intelligence, including supervised and unsupervised machine learning, deep learning, and generative AI.
+This repository contains Jupyter Notebooks developed as part of the IBM AI Engineering Certification program. It includes hands-on exercises and projects covering core and advanced topics in AI, machine learning, and deep learning — with a focus on modern generative AI techniques.
 
 ## Contents
-- Machine Learning with Scikit-Learn
-- Neural Networks with PyTorch
-- Deep Learning fundamentals
-- Generative AI concepts and hands-on notebooks
+- Supervised & Unsupervised Machine Learning
+- Neural Networks and Deep Learning with PyTorch
+- Generative AI concepts and practical implementation
+- Transformers and LLM fine-tuning experiments
 
-## Technologies
-- Python
-- Jupyter Notebooks
+## Technologies & Topics Covered
+- Python, Jupyter Notebooks
 - Scikit-learn, TensorFlow, PyTorch
-
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/IBM-AI-engineering-Certification.git
+- Transformers Architecture, LLM Fine-tuning (LoRA, QLoRA, PEFT)
+- Prompt Engineering, Retrieval-Augmented Generation (RAG) Pipelines
+- LangChain, Vector Databases (FAISS, Chroma)
+- Responsible & Ethical AI practices
